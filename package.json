@@ -17,7 +17,6 @@
     "fastify": "^5.2.1",
     "fluent-json-schema": "^5.0.0",
     "module-alias": "^2.2.3",
-    "mongoose": "^8.9.5",
     "path": "^0.12.7",
     "v8-compile-cache": "^2.4.0"
   },
